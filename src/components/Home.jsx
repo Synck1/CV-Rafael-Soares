@@ -17,9 +17,7 @@ const Home = () => {
                 <div className='space-y-5'>
                     <h1 className='text-2xl font-bold md:text-4xl'>Resumo</h1>
                     <p className='text-sm text-gray-600 dark:text-gray-400 md:text-base'>
-                        Apaixonado por tecnologia e hacking desde jovem, encontrei meu foco na segurança cibernética. especializando-se em ethical hacking, 
-                        testes de penetração e mais, estou em constante evolução para enfrentar desafios atuais. Meu objetivo é contribuir para um mundo digital 
-                        mais seguro e inovador
+                    Apaixonado por tecnologia e cibersegurança desde jovem, busco atuar na área de segurança cibernética e proteção de aplicações. Especializado em ethical hacking e testes de penetração, estou em constante aprimoramento para enfrentar os desafios da era digital. Meu objetivo é contribuir para a construção de um ambiente online mais seguro e inovador
                     </p>
                 </div>
                 <div className='space-y-10'>
