@@ -77,7 +77,7 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
                     <div className="flex flex-wrap gap-16 p-3">
                         <ul className="flex list-disc flex-col gap-3">
                             <li>Capoeira</li>
-                            <li>Reading Books</li>
+                            <li>Ler livros</li>
                             <li>Games</li>
                             <li>CTF - Capture The Flags</li>
                         </ul>
