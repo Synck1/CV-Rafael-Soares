@@ -15,21 +15,6 @@ const Home = () => {
             </div>
             <div id='pdf-content' className='flex max-w-[1000px] flex-col gap-10 p-5 md:mx-10 md:py-14'>
                 <div className='space-y-5'>
-                    <h1 className='text-2xl font-bold md:text-4xl'>Rafael Soares Martins</h1>
-                    <h3 className='text-xl font-light'>Cyber Security Analyst Jr | Red Team | Pentester | DevSecOps</h3>
-                    <ul className="space-y-3">
-                        <li className="flex items-center gap-2">
-                            <span>Sete Lagoas Minas Gerais</span>
-                        </li>
-                        <li className="flex items-center gap-2">
-                            <span>RafaelSoares7l@gmail.com</span>
-                        </li>
-                        <li className="flex items-center gap-2">
-                            <span>+5531995076523</span>
-                        </li>
-                    </ul>
-                </div>
-                <div className='space-y-5'>
                     <h1 className='text-2xl font-bold md:text-4xl'>Resumo</h1>
                     <p className='text-sm text-gray-600 dark:text-gray-400 md:text-base'>
                         Apaixonado por tecnologia e hacking desde jovem, encontrei meu foco na segurança cibernética. especializando-se em ethical hacking, 
