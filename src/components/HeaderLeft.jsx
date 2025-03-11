@@ -49,7 +49,7 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
                     </ul>
                 </div>
                 <div className="flex flex-col items-start justify-start gap-5 border-b p-5 dark:border-gray-700">
-                    <h1 className="text-base font-semibold md:text-2xl">EDUCATION</h1>
+                    <h1 className="text-base font-semibold md:text-2xl">Formações</h1>
                     <ul className="space-y-3">
                         <li className="relative flex flex-col gap-1 border-l p-6 before:absolute before:left-[-6px] before:top-1/2 before:h-3 before:w-3 before:translate-y-1/2 before:rounded-full before:bg-black dark:before:bg-white before:transform">
                             <span className="font-semibold md:text-lg">Ciência da Computação</span>
@@ -84,13 +84,13 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
                     </div>
                 </div>
                 <div className='flex flex-col items-start justify-start gap-5 border-b p-5 dark:border-gray-700'>
-                    <h1 className='text-base font-semibold md:text-2xl'>LANGUAGES</h1>
+                    <h1 className='text-base font-semibold md:text-2xl'>Linguagens</h1>
                     <ul className='flex list-disc flex-wrap gap-12 md:text-lg'>
                         <li>English</li>
                     </ul>
                 </div>
                 <div className="flex flex-col items-start justify-start gap-5 border-b p-5 dark:border-gray-700">
-                    <h1 className="text-base font-semibold md:text-2xl">Extracurricular Activities</h1>
+                    <h1 className="text-base font-semibold md:text-2xl">Atividades extracurriculares</h1>
                     <ul className="space-y-3">
                         <li className="relative flex flex-col gap-1 border-l p-6 before:absolute before:left-[-6px] before:top-1/2 before:h-3 before:w-3 before:translate-y-1/2 before:rounded-full before:bg-black dark:before:bg-white before:transform">
                             <span className="font-semibold md:text-lg">Monitoria</span>

@@ -30,7 +30,7 @@ const Home = () => {
                     </ul>
                 </div>
                 <div className='space-y-5'>
-                    <h1 className='text-2xl font-bold md:text-4xl'>About</h1>
+                    <h1 className='text-2xl font-bold md:text-4xl'>Resumo</h1>
                     <p className='text-sm text-gray-600 dark:text-gray-400 md:text-base'>
                         Apaixonado por tecnologia e hacking desde jovem, encontrei meu foco na segurança cibernética. especializando-se em ethical hacking, 
                         testes de penetração e mais, estou em constante evolução para enfrentar desafios atuais. Meu objetivo é contribuir para um mundo digital 
@@ -38,7 +38,7 @@ const Home = () => {
                     </p>
                 </div>
                 <div className='space-y-10'>
-                    <h1 className='text-2xl font-bold md:text-4xl'>Experience</h1>
+                    <h1 className='text-2xl font-bold md:text-4xl'>Experiências</h1>
                     <div className='flex flex-col lg:flex-row lg:gap-20'>
                         <ul className="space-y-3">
                             <li className="relative flex flex-col gap-1 border-l p-6 before:absolute before:left-[-6px] before:top-1/2 before:h-3 before:w-3 before:translate-y-1/2 before:rounded-full before:bg-black dark:before:bg-white before:transform">
@@ -79,7 +79,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className='space-y-10'>
-                    <h1 className='text-2xl font-bold md:text-4xl'>Certificates</h1>
+                    <h1 className='text-2xl font-bold md:text-4xl'>Certificados</h1>
                     <div className='space-y-10'>
                         <div className='text-baseline space-y-3'>
                             <h3 className='text-xl font-semibold md:text-lg'>DESEC Pentest Profissional (2024) </h3>
