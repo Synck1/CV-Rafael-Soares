@@ -19,11 +19,11 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
                     <ul className="space-y-3">
                         <li className="flex items-center gap-2">
                             <BiCurrentLocation className="text-xl" />
-                            <span>Sete Lagoas Minas Gerais</span>
+                            <span>Belo Horizonte Minas Gerais</span>
                         </li>
                         <li className="flex items-center gap-2">
                             <BiEnvelope className="text-xl" />
-                            <span>RafaelSoares7l@gmail.com</span>
+                            <span>rafael.synck.sec@gmail.com</span>
                         </li>
                         <li className="flex items-center gap-2">
                             <BiPhone className="text-xl" />
@@ -35,9 +35,9 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
                     <h1 className="text-base font-semibold md:text-2xl">SOCIAL</h1>
                     <ul className="space-y-3">
                         <li className="flex items-center gap-2">
-                            <a href="https://github.com/rafasor" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                            <a href="https://github.com/Synck1" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                                 <BiLogoGithub className="text-xl" />
-                                <span>@rafasor</span>
+                                <span>@Synck1</span>
                             </a>
                         </li>
                         <li className="flex items-center gap-2">
