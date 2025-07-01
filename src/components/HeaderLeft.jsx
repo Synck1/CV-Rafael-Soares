@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '/public/image.jpg'
+import image from '/public/image.png'
 import { BiMoon, BiSun, BiCurrentLocation, BiEnvelope, BiPhone, BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
 
 const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
